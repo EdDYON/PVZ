@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east": { "model": "pvz_myh:block/legendary_chest_particle" },
+    "facing=north": { "model": "pvz_myh:block/legendary_chest_particle" },
+    "facing=south": { "model": "pvz_myh:block/legendary_chest_particle" },
+    "facing=west": { "model": "pvz_myh:block/legendary_chest_particle" }
+  }
+}

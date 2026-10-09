@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pvz_myh:item/card/white",
+    "layer1": "pvz_myh:item/plant/flower_pot",
+    "layer2": "pvz_myh:item/card/white_bord"
+  }
+}

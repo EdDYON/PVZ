@@ -1,0 +1,278 @@
+{
+  "bonkchoy_hit": {
+    "sounds": [
+      {
+        "name": "pvz_myh:bonkchoy_hit",
+        "stream": false
+      }
+    ]
+  },
+  "bonkchoy_hit2": {
+    "sounds": [
+      {
+        "name": "pvz_myh:bonkchoy_hit2",
+        "stream": false
+      }
+    ]
+  },
+  "sun_pickup": {
+    "sounds": [
+      {
+        "name": "pvz_myh:sun_1",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:sun_2",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:sun_3",
+        "stream": false
+      }
+    ]
+  },
+  "diamond_pickup": {
+    "sounds": [
+      {
+        "name": "pvz_myh:diamond_pickup",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:diamond_pickup2",
+        "stream": false
+      }
+    ]
+  },
+  "penny_speak": {
+    "sounds": [
+      {
+        "name": "pvz_myh:dave/penny_talk_1",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/penny_talk_2",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/penny_talk_3",
+        "stream": false
+      }
+    ]
+  },
+  "penny_hurt": {
+    "sounds": [
+      {
+        "name": "pvz_myh:dave/penny_hurt_1",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/penny_hurt_2",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/penny_hurt_3",
+        "stream": false
+      }
+    ]
+  },
+  "dave_speak": {
+    "sounds": [
+      {
+        "name": "pvz_myh:dave/crazydaveshort1",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/crazydaveshort2",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/crazydaveshort3",
+        "stream": false
+      }
+    ]
+  },
+  "dave_speak_long": {
+    "sounds": [
+      {
+        "name": "pvz_myh:dave/crazydavelong1",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/crazydavelong2",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/crazydavelong3",
+        "stream": false
+      }
+    ]
+  },
+  "dave_trade": {
+    "sounds": [
+      {
+        "name": "pvz_myh:dave/crazydavescream1",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:dave/crazydavescream2",
+        "stream": false
+      }
+    ]
+  },
+  "dave_hurt": {
+    "sounds": [
+      {
+        "name": "pvz_myh:dave/crazydavecrazy",
+        "stream": false
+      }
+    ]
+  },
+  "supergatlingpea_power": {
+    "sounds": [
+      {
+        "name": "pvz_myh:supergatlingpea_power",
+        "stream": false
+      }
+    ]
+  },
+  "supergatlingpea_shoot": {
+    "sounds": [
+      {
+        "name": "pvz_myh:supergatlingpea_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "electricpeashooter_shoot": {
+    "sounds": [
+      {
+        "name": "pvz_myh:electricpeashooter_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "pea_boom": {
+    "sounds": [
+      {
+        "name": "pvz_myh:pea_boom",
+        "stream": false
+      }
+    ]
+  },
+  "peashooter_shoot": {
+    "sounds": [
+      {
+        "name": "pvz_myh:peashooter_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "primalpea_boom": {
+    "sounds": [
+      {
+        "name": "pvz_myh:primalpea_boom",
+        "stream": false
+      }
+    ]
+  },
+  "primalpeashooter_shoot": {
+    "sounds": [
+      {
+        "name": "pvz_myh:primalpeashooter_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "puff_shroom_shoot": {
+    "sounds": [
+      {
+        "name": "pvz_myh:puff_shroom_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "fume_shroom_shoot": {
+    "sounds": [
+      {
+        "name": "pvz_myh:fume_shroom_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "card_select": {
+    "sounds": [
+      {
+        "name": "pvz_myh:card_select",
+        "stream": false
+      }
+    ]
+  },
+  "shovel_select": {
+    "sounds": [
+      {
+        "name": "pvz_myh:shovel_select",
+        "stream": false
+      }
+    ]
+  },
+  "remove_plant": {
+    "sounds": [
+      {
+        "name": "pvz_myh:remove_plant",
+        "stream": false
+      }
+    ]
+  },
+  "plant_plant": {
+    "sounds": [
+      {
+        "name": "pvz_myh:plant1",
+        "stream": false
+      },
+      {
+        "name": "pvz_myh:plant2",
+        "stream": false
+      }
+    ]
+  },
+  "plant_box_open": {
+    "sounds": [
+      {
+        "name": "pvz_myh:plant_box_open",
+        "stream": false
+      }
+    ]
+  },
+  "plant_box_tick": {
+    "sounds": [
+      {
+        "name": "pvz_myh:plant_box_tick",
+        "stream": false
+      }
+    ]
+  },
+  "plant_box_finish": {
+    "sounds": [
+      {
+        "name": "pvz_myh:plant_box_finish",
+        "stream": false
+      }
+    ]
+  },
+  "secret_labs": {
+    "sounds": [
+      {
+        "name": "pvz_myh:records/secret_labs",
+        "stream": true
+      }
+    ]
+  },
+  "zombies_on_your_lawn": {
+    "sounds": [
+      {
+        "name": "pvz_myh:records/zombies_on_your_lawn",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pvz_myh:block/pot",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "pvz_myh:block/pot",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "pvz_myh:block/pot"
+    },
+    "facing=west": {
+      "model": "pvz_myh:block/pot",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "pvz_myh:item/pea_model"
+  },
+  "textures": {
+    "particle": "pvz_myh:item/pea"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "pvz_myh:item/pea_item"
+    },
+    "fixed": {
+      "parent": "pvz_myh:item/pea_item"
+    }
+  }
+}

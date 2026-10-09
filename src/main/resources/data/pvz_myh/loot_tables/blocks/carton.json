@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:block_state_property",
+            "block": "pvz_myh:carton",
+            "properties": {
+              "pile": "4"
+            }
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pvz_myh:carton"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "pvz_myh:blocks/sand"
+}

@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[46,)"
+license = "ARR"
+issueTrackerURL = ""
+
+[[mods]]
+modId = "pvz_myh"
+version = "${file.jarVersion}"
+displayName = "Pvz Mod by Ai_myh"
+credits = "Ai_myh --> Leader Artist, Designer and mod's Owner; keletu --> Leader Dev and Coder; EdDYON, EDGthexu, Mutie --> Contributor"
+authors = "keletu, Ai_myh, EdDYON"
+logoFile = "logo.png"
+description = "PVZ mod by keletu, Ai_myh and EdDYON"
+
+[[dependencies.pvz_myh]]
+modId = "forge"
+mandatory = true
+versionRange = "[46,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.pvz_myh]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20,1.21)"
+ordering = "NONE"
+side = "BOTH"

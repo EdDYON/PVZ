@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "facing=east,pile=0,open=false": {
+      "model": "pvz_myh:block/carton",
+      "y": 270
+    },
+    "facing=north,pile=0,open=false": {
+      "model": "pvz_myh:block/carton",
+      "y": 180
+    },
+    "facing=south,pile=0,open=false": {
+      "model": "pvz_myh:block/carton"
+    },
+    "facing=west,pile=0,open=false": {
+      "model": "pvz_myh:block/carton",
+      "y": 90
+    },
+    "facing=east,pile=0,open=true": {
+      "model": "pvz_myh:block/carton_open",
+      "y": 270
+    },
+    "facing=north,pile=0,open=true": {
+      "model": "pvz_myh:block/carton_open",
+      "y": 180
+    },
+    "facing=south,pile=0,open=true": {
+      "model": "pvz_myh:block/carton_open"
+    },
+    "facing=west,pile=0,open=true": {
+      "model": "pvz_myh:block/carton_open",
+      "y": 90
+    },
+    "pile=1": {
+      "model": "pvz_myh:block/carton_empty"
+    },
+    "facing=east,pile=2": {
+      "model": "pvz_myh:block/carton_pile",
+      "y": 270
+    },
+    "facing=north,pile=2": {
+      "model": "pvz_myh:block/carton_pile",
+      "y": 180
+    },
+    "facing=south,pile=2": {
+      "model": "pvz_myh:block/carton_pile"
+    },
+    "facing=west,pile=2": {
+      "model": "pvz_myh:block/carton_pile",
+      "y": 90
+    },
+    "pile=3": {
+      "model": "pvz_myh:block/carton_empty"
+    },
+    "pile=4": {
+      "model": "pvz_myh:block/carton_empty"
+    }
+  }
+}

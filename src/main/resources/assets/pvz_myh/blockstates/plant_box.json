@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "pvz_myh:block/plant_box",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "pvz_myh:block/plant_box",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "pvz_myh:block/plant_box"
+    },
+    "facing=west": {
+      "model": "pvz_myh:block/plant_box",
+      "y": 90
+    }
+  }
+}
